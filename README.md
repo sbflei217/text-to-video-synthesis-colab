@@ -113,3 +113,5 @@ Robot dancing in times square.
 
 ## Related Colab
 https://github.com/camenduru/text2video-zero-colab
+## 本地修改示例
+这是通过GitHub Desktop修改的内容。
